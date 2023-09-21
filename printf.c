@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  * _printf - produces output according to format
  * @format: input format
  * Return: characters to stdout
  */
+
 int _printf(const char *format, ...)
 {
 	int char_to_print = 0;
