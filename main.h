@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
-#include <stdarg.h> //to use variable argument list
-#include <string.h> //to use strlen
+#include <stdarg.h>
+#include <string.h> 
 
 int _printf(const char *format, ...);
 
